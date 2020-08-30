@@ -1,4 +1,4 @@
-# bingo_new
+# Weather App
 
 A new Flutter application.
 
